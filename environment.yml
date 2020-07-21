@@ -1,0 +1,5 @@
+name: emvdecode-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
